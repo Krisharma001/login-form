@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
             </form>
             <div class="link">
-                Don't have an account?
+                You don't have an account?
                 <a href="register.php">Register</a>
             </div>
         </div>
